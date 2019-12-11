@@ -17,9 +17,9 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [ ] Submit your website using the link on the Agenda
 
 ### HTML/JavaScript
-- [ ] Create a div to display your songs
-- [ ] Create an array to store your song names
-- [ ] Create a loop to display your song names
+- [x] Create a div to display your songs
+- [x] Create an array to store your song names
+- [x] Create a loop to display your song names
 - [ ] Repeat these steps for song artist, song length, image, and link
 
 #### Wrap
@@ -29,7 +29,7 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 
 ## JavaScript
 - [ ] Add song information to your list using .push()
-- [ ] Create a working click handler that retrieves user input, pushes new items to your song arrays, and displays the result to the screen
+- [x] Create a working click handler that retrieves user input, pushes new items to your song arrays, and displays the result to the screen
 
 #### Wrap
 - [ ] Push your changes!
