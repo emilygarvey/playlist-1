@@ -32,15 +32,16 @@ let song3 = {
     song: "Silent Night"
 }
 
-let newItem = {
-    song: newSong,
-}
+
 
 let playlist = [song1, song2, song3];
 console.log(playlist);
 
 $("button").click(function() {
     newSong = $("#songInput").val();
+    let newItem = {
+        song: newSong,
+    }
     playlist.push(newItem);
     $("#songs").empty();
     for (let item of playlist) {
